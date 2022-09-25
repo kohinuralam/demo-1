@@ -1,0 +1,532 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	.stand-cnt span {
+		font-size: 14px;
+	}
+	
+
+	
+	
+}
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.codehim-menu > li > a {
+		padding-right: 25px;
+	}
+
+	.codehim-menu > li >:last-child a {
+		padding-left: 0;
+	}
+
+	.login-btn a:last-of-type {
+	  padding: 10px 15px;
+	  margin-left: 10px;
+	  font-size: 15px;
+	}
+
+	.hero-cnt h2 {
+		font-size: 55px;
+	}
+
+	.hero-pg p {
+		font-size: 22px;
+	}
+
+	.complate-upper h2 {
+		font-size: 35px;
+	}
+
+	.complate-item h4 {
+	  	font-size: 17px;
+	  	margin-left: 15px;
+	}
+
+	.online-upper h2 {
+		font-size: 45px;
+	}
+
+	.online-upper-hand ul li {
+		font-size: 28px;
+	}
+
+	.online-item p {
+		font-size: 16px;
+	}
+
+	.stand-upper h2 {
+		font-size: 48px;
+	}
+
+	.stand-cnt {
+	  padding: 14px 10px;
+	}
+
+	.stand-cnt span {
+		font-size: 11px;
+	}
+
+	.user-section {
+	  padding: 60px 0 60px 0;
+	}
+
+	.user-upper h2 {
+		font-size: 45px;
+	}
+
+	.user-upper h4 {
+		font-size: 28px;
+	}
+
+	.price-upper h2 {
+		font-size: 44px;
+	}
+
+	.price-pg h1 {
+		font-size: 60px;
+	}
+
+	.pricing-block ul li {
+		font-size: 12px;
+	}
+
+	.bundle-section {
+	  padding: 60px 0 60px 0;
+	}
+
+	.bundle-upper h2 {
+		font-size: 45px;
+	}
+
+	.bundle-item {
+	  padding: 24px 10px;
+	}
+
+
+
+		
+
+	
+} 
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.mobil-header {
+		display: block;
+	}
+
+	.header-section nav {
+		display: none;
+	}
+
+	.header-section {
+  		padding: 27px 0 200px 0;
+  	}
+	
+	.logo {
+		display: none;
+	}
+
+	.login-btn {
+		display: none;
+	}
+
+	.hero-cnt {
+	  margin: 50px 0 0 0;
+	}
+
+	.hero-cnt h2 {
+		font-size: 40px;
+	}
+
+	.hero-pg p {
+		font-size: 17px;
+	}
+
+	.hero-btn-wrap {
+		display: block !important;
+	}
+
+	.hero-btn1 a {
+	  font-size: 16px;
+	  padding: 13px 18px;
+	}
+
+	.watch-vido {
+	  margin-left: 0;
+	  margin-top: 20px;
+	}
+
+	.watch-vido span {
+		font-size: 18px;
+	}
+
+	.watch-vido i {
+	  width: 40px;
+	  height: 40px;
+	  line-height: 40px;
+	  margin-right: 15px;
+	  font-size: 18px;
+	}
+
+	.hero-bottom-section {
+	   margin: -134px 0 0 0;
+	}
+
+	.complate-upper h2 {
+		font-size: 35px;
+	}
+
+	.complate-item h4 {
+	  	font-size: 17px;
+	  	margin-left: 15px;
+	}
+
+	.online-section {
+	  background: #F2F6FF;
+	  padding: 60px 0 70px 0;
+	}
+
+	.odd-1 {
+		order: 1;
+		margin: 40px 0 0 0;
+	}
+
+	.odd-2 {
+		order: 2;
+	}
+
+	.odd-3 {
+		order: 3;
+	}
+
+	.online-upper h2 {
+		font-size: 40px;
+	}
+
+	.online-upper-hand ul li {
+		font-size: 25px;
+	}
+
+	.stand-section {
+	  padding: 50px 0 50px 0;
+	}
+
+	.stand-upper h2 {
+		font-size: 40px;
+	}
+
+	.stand-item {
+		margin: 30px 0 0 0;
+	}
+
+	.stand-box {
+	   margin: 0 auto 0;
+	}
+
+	.user-section {
+	  padding: 65px 0 50px 0;
+	}
+	.user-upper h2 {
+		font-size: 45px;
+	}
+
+	.user-upper h4 {
+		font-size: 28px;
+	}
+
+	.pricing-section {
+		padding: 55px 0 60px 0;
+	}
+
+	.price-upper h2 {
+		font-size: 36px;
+	}
+
+	.inner-box {
+		margin: 20px 0 0 0;
+	}
+
+	.price-upper h2 {
+		font-size: 50px;
+	}
+
+	.price-pg h1 {
+		font-size: 60px;
+	}
+
+	.bundle-section {
+	  padding: 60px 0 70px 0;
+	}
+
+	.bundle-upper h2 {
+		font-size: 48px;
+	}
+
+	.need-section {
+	  padding: 55px 0 55px 0;
+	}
+
+	.need-upper h2 {
+		font-size: 45px;
+	}
+
+	
+
+
+}
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+
+	.mobil-header {
+		display: block;
+	}
+
+	.header-section nav {
+		display: none;
+	}
+
+	.logo {
+		display: none;
+	}
+
+	.login-btn {
+		display: none;
+	}
+
+	.header-section {
+  		padding: 27px 0 150px 0;
+  	}
+
+	.hero-cnt {
+	  margin: 50px 0 0 0;
+	}
+
+	.hero-cnt h2 {
+		font-size: 35px;
+	}
+
+	.hero-pg p {
+		font-size: 16px;
+	}
+
+	.hero-btn-wrap {
+		display: block !important;
+	}
+
+	.hero-btn1 a {
+	  padding: 10px 13px;
+	  border-radius: 8px;
+	  font-size: 12px;
+	}
+
+	.watch-vido {
+	  margin-left: 0;
+	  margin-top: 20px;
+	}
+
+	.watch-vido span {
+		font-size: 16px;
+	}
+
+	.watch-vido i {
+	  width: 30px;
+	  height: 30px;
+	  line-height: 30px;
+	  margin-right: 15px;
+	  font-size: 15px;
+	}
+
+	.hero-bottom-section {
+	   margin: -80px 0 0 0;
+	}
+
+	.complate-section {
+	  padding: 65px 0 50px 0;
+	}
+
+	.complate-item {
+	   margin: 30px 0 0 0;
+	}
+
+	.complate-upper h2 {
+		font-size: 25px;
+	}
+
+	.complate-item h4 {
+		font-size: 18px;
+		margin-left: 10px;
+	}
+
+	.complate-item p {
+		font-size: 14px;
+	}
+
+	.complate-item-inner1 {
+	  width: 65px;
+	  height: 65px;
+	  line-height: 65px;
+	}
+
+	.complate-item-inner1 img {
+		max-width: 30px;
+	}
+
+	.online-section {
+	  padding: 60px 0 50px 0;
+	}
+
+	.online-upper h2 {
+		font-size: 22px;
+	}
+
+	.online-upper-hand ul li {
+		font-size: 16px;
+	}
+
+	.online-item p {
+		font-size: 16px;
+	}
+
+	.odd-1 {
+		order: 1;
+		margin: 40px 0 0 0;
+	}
+
+	.odd-2 {
+		order: 2;
+	}
+
+	.odd-3 {
+		order: 3;
+	}
+
+	.stand-section {
+	  padding: 45px 0 40px 0;
+	}
+
+	.stand-part {
+	  margin: 20px 0 0 0;
+	}
+
+	.stand-upper h2 {
+		font-size: 28px;
+	}
+
+	.stand-item {
+		margin: 30px 0 0 0;
+	}
+
+	.stand-box {
+	   margin: 0 auto 0;
+	}
+
+	.user-section {
+	  padding: 45px 0 40px 0;
+	}
+
+	.user-upper h2 {
+		font-size: 28px;
+		text-align: center;
+	}
+
+	.user-upper h4 {
+		font-size: 22px;
+		text-align: center;
+	}
+
+	.main-content1 .owl-theme .owl-dots .owl-dot span {
+	  margin: 25px 7px 0 7px; 
+	}
+
+	.pricing-section {
+		padding: 45px 0 45px 0;
+	}
+
+	.price-upper h2 {
+		font-size: 21px;
+	}
+
+	.inner-box {
+		margin: 30px 0 0 0;
+	}
+
+	.bundle-section {
+	  padding: 50px 0 50px 0;
+	}
+
+	.price-pg h1 {
+		font-size: 60px;
+	}
+
+	.bundle-item {
+		margin: 30px 0 0 0;
+	}
+
+	.bundle-price {
+	  margin: 20px 0 0 0;
+	}
+
+	.bundle-upper h2 {
+	  font-size: 35px;
+	}
+
+	.bundle-upper p {
+		font-size: 15px;
+	}
+
+	.ziehharmonika > div {
+		padding: 5px 40px 25px 70px; 
+	}
+
+	.need-upper h2 {
+		font-size: 35px;
+	}
+
+	.ziehharmonika h3 {
+		font-size: 16px;
+		padding-right: 50px;
+	}
+
+	.footer-item-img{
+		text-align: center;
+	}
+
+	.footer-item ul li {
+		padding-right: 15px;
+		margin: 20px 0 0 0;
+	}
+
+	.social-icon ul {
+	   justify-content: center;
+	}
+
+	.copy-left p {
+		text-align: center;
+	}
+
+	.copy-right ul {
+		justify-content: center;
+		margin: 10px 0 0 0;
+	}
+
+	.videomodal.size-m {
+	   width: 320px;
+	   height: 200px;
+	}
+
+
+
+
+
+
+}
+
+
+
+
+		
+		         
